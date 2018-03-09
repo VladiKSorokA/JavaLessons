@@ -2,6 +2,7 @@ package com.company;
 
 public class Main {
 
+    // this func calculate n!
     public long faktorial (int n){
         if(n == 0){
             return 1;
